@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(xbox-assets/base.jpeg);
+    background: url(xbox-assets/base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(xbox-assets/base-white.jpeg);
+    background: url(xbox-assets/base-white.png);
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.jpeg);
+    background: url(xbox-assets/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(xbox-assets/trigger.jpeg);
+    background: url(xbox-assets/trigger.png);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(xbox-assets/bumper.jpeg);
+    background: url(xbox-assets/bumper.png);
     opacity: 0;
 }
 
@@ -72,46 +72,8 @@
     transform: rotateY(180deg);
 }
 
-.xbox .quadrant {
-    position: absolute;
-    background: url(xbox-assets/quadrant.jpeg);
-    height: 45px;
-    width: 45px;
-    top: 258px;
-    left: 354px;
-    z-index: 0;
-}
-
-.xbox .p0 {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-}
-
-.xbox .p1 {
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
-
-.xbox .p2 {
-    -webkit-transform: rotate(270deg);
-    transform: rotate(270deg);
-}
-
-.xbox .p3 {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
-
-.xbox .arrows {
-    position: absolute;
-    width: 141px;
-    height: 33px;
-    top: 264px;
-    left: 306px;
-}
-
 .xbox .back, .xbox .start {
-    background: url(xbox-assets/start-select.jpeg);
+    background: url(xbox-assets/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +102,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy.svg);
+    background: url(xbox-assets/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -185,7 +147,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stick.jpeg);
+    background: url(xbox-assets/stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +176,7 @@
 }
 
 .xbox .face {
-    background: url(xbox-assets/dpad.jpeg);
+    background: url(xbox-assets/dpad.png);
     position: absolute;
     opacity: 0;
 }
