@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/base-white.png);
+    background: url(xbox-assets/base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/base-white.png);
+    background: url(xbox-assets/base-white.svg);
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svg);
+    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/disconnected.png);
 }
 
 .xbox.disconnected div {
