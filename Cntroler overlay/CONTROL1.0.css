@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/base-white.png);
+    background: url(Cntroler overlay/base-white.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .xbox.disconnected {
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/disconnected.png);
+    background: url(Cntroler overlay/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -25,7 +25,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/trigger.png);
+    background: url(Cntroler overlay/trigger.png);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/bumper.png);
+    background: url(Cntroler overlay/bumper.png);
     opacity: 0;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/start-select.png);
+    background: url(Cntroler overlay/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -98,7 +98,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/abxy.png);
+    background: url(Cntroler overlay/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -143,7 +143,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/stick2.PNG);
+    background: url(Cntroler overlay/stick2.PNG);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -172,7 +172,7 @@
 }
 
 .xbox .face {
-    background: url(https://github.com/Narcolepticnard/Narcolepticnard2.github.io/blob/main/Cntroler%20overlay/dpad.png);
+    background: url(Cntroler overlay/dpad.png);
     position: absolute;
     opacity: 0;
 }
